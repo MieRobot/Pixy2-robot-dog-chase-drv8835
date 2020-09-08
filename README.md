@@ -17,4 +17,5 @@ Note# This code will not work with L293/L298 Driver so donot waste time on it. D
 
 Testing video in below link
 
-[![IMAGE ALT TEXT](https://youtu.be/OETt1gaWnrE/0.jpg)](https://youtu.be/OETt1gaWnrE "Vlog 3 | Pixy2 and DVR8835 Color ball chase robot with code")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OETt1gaWnrE/0.jpg)](http://www.youtube.com/watch?v=OETt1gaWnrE "Pixy2 and DVR8835 Color ball chase robot with code")
