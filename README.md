@@ -14,3 +14,7 @@ Step 4# Arduino and driver connection is given at https://www.pololu.com/product
 Step 5# Test. Make sure you use the same lighting conditions as you used to train. Bright white lights seemed better than neon or yellow shades.
 
 Note# This code will not work with L293/L298 Driver so donot waste time on it. DVR8835 uses only 2 connection per motor unlike L298 with needs 3 connections with PWM.
+
+Testing video in below link
+
+[![IMAGE ALT TEXT](https://youtu.be/OETt1gaWnrE/0.jpg)](https://youtu.be/OETt1gaWnrE "Vlog 3 | Pixy2 and DVR8835 Color ball chase robot with code")
