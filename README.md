@@ -1,4 +1,4 @@
-# H1 Pixy2-robot-dog-chase-drv8835
+# Pixy2-robot-dog-chase-drv8835
 
 ![Chase robot Image 2 ](https://github.com/MieRobot/Pixy2-robot-dog-chase-drv8835/blob/master/Pixy2%20Chase%20robot.jpeg)
 This is a simple implementation of the chase mode with pixy2 along with DRV8835. The code I used is the same given CMS for Pixy called as ccc_zumo_chase. You can see it under examples -> Pixy2 -> ccc_zumo_chase
@@ -7,7 +7,7 @@ I have also put a copy incase you wish to see the code in browser. The motor dri
 Please note you would need to download Pixymon2 to train the Pixy2 first.
 Download link for PixyMon2 https://pixycam.com/downloads-pixy2/
 
-#### H4 Steps in brief
+#### Steps in brief
 
 1. Step 1# Download Pixymon and train the Pixy2 with the object
 2. Step 2# Assemble the robot
@@ -17,7 +17,7 @@ Download link for PixyMon2 https://pixycam.com/downloads-pixy2/
 
 Note# This code will not work with L293/L298 Driver so donot waste time on it. DVR8835 uses only 2 connection per motor unlike L298 with needs 3 connections with PWM.
 
-#### H4 Testing video in below link
+#### Testing video in below link
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OETt1gaWnrE/0.jpg)](http://www.youtube.com/watch?v=OETt1gaWnrE "Pixy2 and DVR8835 Color ball chase robot with code")
