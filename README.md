@@ -22,7 +22,7 @@ Please note you would need to download Pixymon2 to train the Pixy2 first.
 
 ##### Note# This code will not work with L293/L298 Driver so donot waste time on it. DVR8835 uses only 2 connection per motor unlike L298 with needs 3 connections with PWM.
 
-#### Testing video in below link
+#### Testing video in below link (Click the picture below)
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OETt1gaWnrE/0.jpg)](http://www.youtube.com/watch?v=OETt1gaWnrE "Pixy2 and DVR8835 Color ball chase robot with code")
