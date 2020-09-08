@@ -1,4 +1,4 @@
-# Pixy2-robot-dog-chase-drv8835
+# Pixy2-Robot-dog-chasemode-DRV8835
 
 ![Chase robot Image 2 ](https://github.com/MieRobot/Pixy2-robot-dog-chase-drv8835/blob/master/Pixy2%20Chase%20robot.jpeg)
 This is a simple implementation of the chase mode with pixy2 along with DRV8835. The code I used is the same given CMS for Pixy called as ccc_zumo_chase. You can see it under examples -> Pixy2 -> ccc_zumo_chase
