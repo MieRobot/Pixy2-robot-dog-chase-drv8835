@@ -24,5 +24,4 @@ Please note you would need to download Pixymon2 to train the Pixy2 first.
 
 #### Testing video in below link (Click the picture below)
 
-
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OETt1gaWnrE/0.jpg)](http://www.youtube.com/watch?v=OETt1gaWnrE "Pixy2 and DVR8835 Color ball chase robot with code")
